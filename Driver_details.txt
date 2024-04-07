@@ -1,0 +1,10 @@
+KALLE ROVANPERÄ,22,Toyota Gazoo Racing,Toyota GR Yaris Rally1,255
+OTT TÄNAK,35,Hyundai Shell Mobis,Hyundai i20 N Rally1,205
+THIERRY NEUVILLE,34,Hyundai Shell Mobis,Hyundai i20 N Rally1,193
+TAKAMOTO KATSUTA,29,Toyota Gazoo Racing,Toyota GR Yaris Rally1,121
+SÉBASTIEN OGIER,38,Toyota Gazoo Racing,Toyota Yaris WRC,230
+ESAPEKKA LAPPI,31,Toyota Gazoo Racing,Toyota GR Yaris Rally1,58
+CRAIG BREEN,32,M-Sport Ford,Ford Puma Rally1,98
+SÉBASTIEN LOEB,48,M-Sport Ford,Ford Puma Rally1,35
+CARLOS SAINZ,60,Acciona Sainz XE,Spark Odyssey 21,60
+ADRIEN FOURMAUX,27,M-Sport Ford,Ford Puma Rally1,13

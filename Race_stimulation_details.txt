@@ -1,0 +1,20 @@
+**************** WORLD RALLY CHAMPIONSHIP 2023 ****************
+     Welcome to the World Rally Championship Race Simulator.
+Location of the race :
+Date of the race :
+
+#Race locations:
+Circuit de Nyirád
+Circuit de Höljes
+Circuit de Montalegre
+Circuit de Barcelona
+Circuit de Rīga
+Circuit de Norway
+
+#Race Dates:(day/month/year)
+Thursday,26 January 2023
+Wednesday,22 March 2023
+Tuesday,25 April 2023
+Monday,26 June 2023
+Monday,25 September 2023
+Friday,24 November 2023

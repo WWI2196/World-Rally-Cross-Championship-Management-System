@@ -1,0 +1,7 @@
+#Race settings:(set format)
+Circuit de Nyirád,26-01-2023
+Circuit de Höljes,22-03-2023
+Circuit de Montalegre,25-04-2023
+Circuit de Barcelona,26-06-2023
+Circuit de Rīga,25-09-2023
+Circuit de Norway,24-11-2023
